@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this research hub, please cite the repository and the specific software artifact or paper you relied on."
+title: "Ulisses Flores Research"
+type: generic
+authors:
+  - family-names: Flores
+    given-names: Carlos Ulisses
+    affiliation: "Codex Hash Ltda. (Brazil)"
+    orcid: "https://orcid.org/0000-0002-6034-7765"
+repository-code: "https://github.com/ulissesflores/ulissesflores-research"
+url: "https://github.com/ulissesflores/ulissesflores-research"
+license: Apache-2.0
+abstract: >
+  Umbrella repository for papers, software artifacts, manuscript workspaces, and
+  reproducible academic outputs related to AI systems, simulation, resilience,
+  and scholarly software infrastructure.
+keywords:
+  - research software
+  - reproducibility
+  - software citation
+  - complex systems
+  - AI systems
